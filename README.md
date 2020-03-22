@@ -12,5 +12,5 @@ This was a group project data mining and machine learning techniques used to exp
 Decision Trees, Clustering, Multiple Linear Regression, conducting a statistical test for serial correlation and concluding with ARIMA and ARIMAX for time series analysis.
 
 ## Machine Learning Algorithms, and their usage for Autonomous Vehicles
-This was a written report, where we had to read & analyse multiple reports on a specific topic and combine the information gathered into our own report on the topic. I chose Autonomous Vehicles because it's an area I'm deeply interested in. 
+This was only a report. We had to read & analyse multiple reports on a chosen topic and combine the information gathered into our own report on the topic. I chose Autonomous Vehicles because it's an area I'm deeply interested in. 
 
